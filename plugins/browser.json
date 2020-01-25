@@ -19,10 +19,22 @@
     "cordova-plugin-camera": {
       "PACKAGE_NAME": "com.huzaifrangila.pettato"
     },
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "com.huzaifrangila.pettato"
+    },
+    "cordova-plugin-contacts": {
+      "PACKAGE_NAME": "com.huzaifrangila.pettato"
+    },
     "cordova-plugin-crop": {
       "PACKAGE_NAME": "com.huzaifrangila.pettato"
     },
     "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.huzaifrangila.pettato"
+    },
+    "cordova-plugin-device-motion": {
+      "PACKAGE_NAME": "com.huzaifrangila.pettato"
+    },
+    "cordova-plugin-device-orientation": {
       "PACKAGE_NAME": "com.huzaifrangila.pettato"
     },
     "cordova-plugin-dialogs": {

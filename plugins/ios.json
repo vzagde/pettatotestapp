@@ -69,6 +69,18 @@
     },
     "com.napolitano.cordova.plugin.intent": {
       "PACKAGE_NAME": "com.huzaifrangila.pettato"
+    },
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "com.huzaifrangila.pettato"
+    },
+    "cordova-plugin-contacts": {
+      "PACKAGE_NAME": "com.huzaifrangila.pettato"
+    },
+    "cordova-plugin-device-motion": {
+      "PACKAGE_NAME": "com.huzaifrangila.pettato"
+    },
+    "cordova-plugin-device-orientation": {
+      "PACKAGE_NAME": "com.huzaifrangila.pettato"
     }
   },
   "dependent_plugins": {
