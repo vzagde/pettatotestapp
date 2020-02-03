@@ -83,7 +83,7 @@
     <plugin name="cordova-plugin-device-motion" source="npm" />
     <plugin name="cordova-plugin-device-orientation" source="npm" />
     <plugin name="cordova-plugin-dialogs" source="npm" />
-    <plugin name="cordova-plugin-file" source="npm">
+    <plugin name="cordova-plugin-file" source="npm" spec="~4.3.3">
         <key>NSPhotoLibraryUsageDescription</key>
         <string>Photo Library Access Warning</string>
     </plugin>
